@@ -17,7 +17,7 @@ const {
 
 
 //application routes;
-app.use('/daraja', router);
+app.use('/shop', router);
 
 
 
